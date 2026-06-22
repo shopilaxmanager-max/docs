@@ -89,7 +89,7 @@ You can transfer your repository to any personal account that accepts your repos
 {% data reusables.repositories.sidebar-settings %}
 {% data reusables.repositories.transfer-repository-steps %}
 
-## Transferring a repository owned by your organization
+## Transferring a repository owned by your organization.
 
 If you have owner permissions in an organization or admin permissions to one of its repositories, you can transfer a repository owned by your organization to your personal account or to another organization. {% ifversion ghec or ghes %}Internal repositories cannot be transferred to a personal account, only to another organization. To transfer an internal repository, change the repository's visibility to "private" or "public". See [AUTOTITLE](/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility){% endif %}
 
